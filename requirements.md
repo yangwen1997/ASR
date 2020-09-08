@@ -1,0 +1,11 @@
+DBUtils==1.3
+jieba==0.42.1
+numpy==1.19.1
+pandas==1.1.1
+pymongo==3.11.0
+PyMySQL==0.10.0
+python-dateutil==2.8.1
+pytz==2020.1
+redis==2.10.6
+redis-py-cluster==1.3.6
+six==1.15.0
